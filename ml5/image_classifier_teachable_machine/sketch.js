@@ -10,7 +10,7 @@
 */
 
 // Replace with your custom model URL here
-const imageModelURL = 'https://teachablemachine.withgoogle.com/models/bXy2kDNi/';  // Night vs Day
+const imageModelURL = 'https://teachablemachine.withgoogle.com/models/Ecw4gxBCr/';  // Night vs Day
 
 // Video
 let video;
